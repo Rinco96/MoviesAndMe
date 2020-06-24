@@ -1,0 +1,1 @@
+https://openclassrooms.com/fr/courses/4902061-developpez-une-application-mobile-react-native/4916061-appliquez-des-styles-a-vos-components#/id/r-4966568
